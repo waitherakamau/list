@@ -1,5 +1,5 @@
 fun main(){
-    var t=indices(listOf("umulisa","murugi","wairimu","karimi","nkimalantoi","odoyo","waithera","salma","natete","kirigo"))
+    var t=indices(listOf("umulisap","murugii","wairimu","karimi","nkimalantoi","odoyo","waithera","salma","natete","kirigo"))
      println(t)
 
     var x=heightMetre(listOf(1,4,5,9))
