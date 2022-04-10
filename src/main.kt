@@ -8,7 +8,7 @@ fun main(){
     println(x)
 
 
-    var c=person("nancy",22,34,67)
+    var c=person("nancyy",22,34,67)
 
     var b=person("mary",24,12,56)
 
